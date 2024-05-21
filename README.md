@@ -1,6 +1,5 @@
 # Resume Finger Simulation Experiment - NIM
 
-_Berikan penjelasan singkat mengenai project yang akan kalian buat. Hal ini bertujuan agar pembaca dapat memahami hasil akhir dari project kalian._
 
 ## Data Understanding
 
